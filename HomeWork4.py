@@ -9,7 +9,7 @@ def check(func):
     return check_user
 
 @check
-def my_money(lst):
+def my_money(name):
     return '1000 BYN'
 
 #my_money = check(my_money)
